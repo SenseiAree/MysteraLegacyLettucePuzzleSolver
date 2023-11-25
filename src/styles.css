@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    background: none repeat scroll 0 0 #252D32;
+    background-image: url("assets/backdrop.png");
+    background-repeat: no-repeat;
+    background-size: 100%;    color: #D4D9E1;
+    font-family: "Open Sans",Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.5;    margin: 0;
+}
+* {
+    outline: none;
+}
